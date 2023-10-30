@@ -1,0 +1,45 @@
+2023-10-23T07:58:14.764Z
+Path to project: "c:/xampp/htdocs/nextjs-blog"
+Using glob rule: "c:/xampp/htdocs/nextjs-blog/**/*.@(ts|js)?(x)"
+And glob ignore rules: [
+  "c:/xampp/htdocs/nextjs-blog/**/node_modules/**/*",
+  "c:/xampp/htdocs/nextjs-blog/**/*.d.ts",
+  "c:/xampp/htdocs/nextjs-blog/node_modules/**/*",
+  "c:/xampp/htdocs/nextjs-blog/bower_components/**/*",
+  "c:/xampp/htdocs/nextjs-blog/jspm_packages/**/*"
+]
+Found source file: "c:/xampp/htdocs/nextjs-blog/components/layout.js"
+Found source file: "c:/xampp/htdocs/nextjs-blog/lib/posts.js"
+Found source file: "c:/xampp/htdocs/nextjs-blog/pages/index.js"
+Found source file: "c:/xampp/htdocs/nextjs-blog/pages/_app.js"
+Found source file: "c:/xampp/htdocs/nextjs-blog/pages/posts/[id].js"
+Finding the sources took (3973ms)
+Parse file: "c:/xampp/htdocs/nextjs-blog/components/layout.js"
+Normalizing the content took (2ms)
+Found imports: 5 (1ms)
+Found exports: 2 (1ms)
+Parse file: "c:/xampp/htdocs/nextjs-blog/lib/posts.js"
+Normalizing the content took (2ms)
+Found imports: 3 (1ms)
+Found exports: 3 (0ms)
+Parse file: "c:/xampp/htdocs/nextjs-blog/pages/index.js"
+Normalizing the content took (1ms)
+Found imports: 4 (1ms)
+Found exports: 1 (1ms)
+Parse file: "c:/xampp/htdocs/nextjs-blog/pages/_app.js"
+Normalizing the content took (0ms)
+Found imports: 1 (1ms)
+Found exports: 1 (2ms)
+Parse file: "c:/xampp/htdocs/nextjs-blog/pages/posts/[id].js"
+Normalizing the content took (1ms)
+Found imports: 2 (2ms)
+Found exports: 1 (0ms)
+Parsing the files took (22ms)
+Processed files: 5 (8ms)
+Files having imports|exports: 5 (1ms)
+Total imports: 11 (1ms)
+Total exports: 8 (1ms)
+Analysed files: 5 (2ms)
+Not used exports: 3 (2ms)
+Total ellapsed time (ms): 4017
+------------------------------------------------------------------------
